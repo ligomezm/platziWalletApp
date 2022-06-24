@@ -1,6 +1,14 @@
 package com.cristianvillamil.platziwallet
 
-class UserSingleton {
+object UserSingleton {
+    var username = "Liliana"
+}
+
+
+/**
+ * SINGLETON IN JAVA
+ *
+ * class UserSingleton {
     var username = "Liliana"
 
     companion object {
@@ -13,4 +21,4 @@ class UserSingleton {
             return instance as UserSingleton
         }
     }
-}
+}*/

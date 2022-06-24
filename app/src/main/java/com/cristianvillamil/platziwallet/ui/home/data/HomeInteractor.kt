@@ -60,6 +60,5 @@ class HomeInteractor {
         val handler = Handler()
         handler.postDelayed(runnable, 3000)
 
-        UserSingleton.getInstance().username
     }
 }
