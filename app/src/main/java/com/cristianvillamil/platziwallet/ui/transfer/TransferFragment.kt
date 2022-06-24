@@ -11,6 +11,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.cristianvillamil.platziwallet.R
+import com.cristianvillamil.platziwallet.ui.TransferProxy
 import kotlinx.android.synthetic.main.fragment_transfer.*
 import java.text.NumberFormat
 

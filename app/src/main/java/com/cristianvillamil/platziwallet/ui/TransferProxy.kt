@@ -20,7 +20,7 @@ class TransferProxy {
     }
 
     private fun doTransfer(amount: Double) {
-        
+
     }
 
 }
